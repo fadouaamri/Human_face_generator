@@ -10,3 +10,4 @@ Used Libraries:
 - NumPy
 - TensorFlow
 - Flask
+The dataset used is the CelebA https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
